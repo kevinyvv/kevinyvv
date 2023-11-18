@@ -10,6 +10,7 @@ Hello there! 👋 I'm Kevin Wu, a first-year student at the University of Waterl
 ## 🌱 What I'm Up To
 
 I'm on a journey to expand my coding skills, tackling fascinating projects and coursework along the way.
+A project I'm currently working on is a manga recommendation system that uses an algorithm similar to Spotify's Discover Weekly to generate manga recommendations off user input!
 
 ## 🤝 Let's Connect
 
