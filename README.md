@@ -1,19 +1,12 @@
-# About Me
+![Header](./github-header-image%20(2).png)
 
-Hello there! 👋 I'm Kevin Wu, a first-year student at the University of Waterloo, pursuing a degree in Computer Science. Welcome to my corner of the GitHub universe!
+Check out my personal site at https://kevin-wu.ca.
 
-## 🚀 Quick Overview
+#### Current Interests
+Lately, I've been working on creating a web app that lets you create and view outfits (like a character customization screen!) using Three.js.
 
-- 📚 Currently diving into the exciting world of computer science at the University of Waterloo.
-- 🖥️ Passionate about coding and exploring new technologies.
+I've also been learning more in a variety of topics, such as Machine Learning, 3D Modeling, and Game Design. 
 
-## 🌱 What I'm Up To
-
-I'm on a journey to expand my coding skills, tackling fascinating projects and coursework along the way.
-A project I'm currently working on is a manga recommendation system that uses an algorithm similar to Spotify's Discover Weekly to generate manga recommendations off user input.
-
-## 🤝 Let's Connect
-
-I'm always open to collaboration, discussions, and making new connections. Whether you want to talk tech, or share your favorite playlist, feel free to reach out. Let's build something amazing together!
-
-Thanks for stopping by! 🚀✨
+#### Languages and Tools
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)    ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
