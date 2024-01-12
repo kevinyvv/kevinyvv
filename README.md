@@ -3,7 +3,7 @@
 Check out my personal site at https://kevin-wu.ca.
 
 ### Current Interests
-Lately, I've been working on creating a web app that lets you create and view outfits (like a character customization screen!) using Three.js.
+I think making a hinge-style dating platform for coders (with options to display leetcode and github profiles) would be funny, so I'm making that. The project will be a nice way to practice the MERN stack.
 
 I've also been learning more in a variety of topics, such as Machine Learning, 3D Modeling, and Game Design. 
 
